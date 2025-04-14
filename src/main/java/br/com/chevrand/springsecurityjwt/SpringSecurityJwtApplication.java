@@ -1,4 +1,4 @@
-package br.com.chevrand.spring_security_jwt;
+package br.com.chevrand.springsecurityjwt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
